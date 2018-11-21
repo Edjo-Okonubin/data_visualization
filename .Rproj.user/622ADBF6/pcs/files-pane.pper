@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data Science Projects/data_visualization/iphone_sales",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542173405563.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "577283674",
+    "id" : "C8FE6C65",
+    "lastKnownWriteTime" : 1542659788,
+    "last_content_update" : -2147483648,
+    "path" : "~/Data Science Projects/data_visualization/iphone_sales/code/iPhone_sales.R",
+    "project_path" : "code/iPhone_sales.R",
+    "properties" : {
+        "cursorPosition" : "34,65",
+        "scrollLine" : "23",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
